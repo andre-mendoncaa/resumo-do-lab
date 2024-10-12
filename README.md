@@ -32,6 +32,11 @@
 * Governança
 * Gerenciabilidade
 
+# Tipos de Serviços de Nuvem
+* Iaas: Infraestrutura como serviço (Oferece a infraestrutura para própria configuração)
+* Paas: Plataforma como serviço (Oferece a plataforma, sem se preocupar com a infratestrutura)
+* Saas: Software como serviço
+
 
 
 
