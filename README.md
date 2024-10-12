@@ -22,6 +22,16 @@
 * Gastos com serviços conforme necessidade
 * Cobrado imediatamente
 
+# Benefícios do Cloud
+* Alta Disponibilidade
+* Escalabilidade: Capacidade de adicionar mais recursos de forma fácil.
+* Elasticidade: Recursos podem ser expandidos com base na necessidade.
+* Confiabilidade: Recursos implantados em várias regiões do mundo.
+* Previsibilidade
+* Segurança
+* Governança
+* Gerenciabilidade
+
 
 
 
